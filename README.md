@@ -4,6 +4,8 @@
 
 This project builds a data-driven restaurant intelligence system that identifies restaurants with strong potential for sustainable growth.
 
+Demo link - https://restaurant-growth-classifier-3z3ou8amww487crwqzfvcr.streamlit.app/
+
 Instead of only analyzing current profit, this system evaluates multiple business dimensions such as:
 
 - Growth momentum
